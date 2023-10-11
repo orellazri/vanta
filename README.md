@@ -1,3 +1,5 @@
-# vanta README
+# Vanta
 
-Minimal black theme for VS Code.
+**Vanta** is a minimal black theme for VS Code.
+
+![Vanta](assets/screenshot.png)

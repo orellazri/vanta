@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 10/11/2023
+
+- Added screenshot and updated readme
+
 ## [1.0.2] - 10/11/2023
 
 - Added keywords
