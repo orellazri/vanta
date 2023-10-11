@@ -3,13 +3,18 @@
   "displayName": "Vanta",
   "description": "Minimal black color theme",
   "icon": "icon.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "publisher": "OrelLazri",
   "repository": {
     "type": "git",
     "url": "https://github.com/orellazri/vanta"
   },
+  "keywords": [
+    "minimal",
+    "black",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.83.0"
   },
