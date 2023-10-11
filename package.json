@@ -2,7 +2,10 @@
   "name": "vanta",
   "displayName": "Vanta",
   "description": "Minimal black color theme",
-  "version": "0.0.1",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publisher": "OrelLazri",
   "repository": {
     "type": "git",
     "url": "https://github.com/orellazri/vanta"
