@@ -1,0 +1,21 @@
+{
+  "name": "vanta",
+  "displayName": "Vanta",
+  "description": "Minimal black color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vanta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vanta-color-theme.json"
+      }
+    ]
+  }
+}
